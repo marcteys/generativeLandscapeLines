@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 7ef812c75d8e893439b8a86316eae5c2
+timeCreated: 1545316853
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Aristarchusregionmoon3xv
+    100002: Aristarchusregionmoon3xv_MeshPart0
+    100004: Aristarchusregionmoon3xv_MeshPart1
+    100006: Aristarchusregionmoon3xv_MeshPart10
+    100008: Aristarchusregionmoon3xv_MeshPart11
+    100010: Aristarchusregionmoon3xv_MeshPart12
+    100012: Aristarchusregionmoon3xv_MeshPart13
+    100014: Aristarchusregionmoon3xv_MeshPart14
+    100016: Aristarchusregionmoon3xv_MeshPart15
+    100018: Aristarchusregionmoon3xv_MeshPart16
+    100020: Aristarchusregionmoon3xv_MeshPart17
+    100022: Aristarchusregionmoon3xv_MeshPart18
+    100024: Aristarchusregionmoon3xv_MeshPart19
+    100026: Aristarchusregionmoon3xv_MeshPart2
+    100028: Aristarchusregionmoon3xv_MeshPart20
+    100030: Aristarchusregionmoon3xv_MeshPart21
+    100032: Aristarchusregionmoon3xv_MeshPart22
+    100034: Aristarchusregionmoon3xv_MeshPart23
+    100036: Aristarchusregionmoon3xv_MeshPart3
+    100038: Aristarchusregionmoon3xv_MeshPart4
+    100040: Aristarchusregionmoon3xv_MeshPart5
+    100042: Aristarchusregionmoon3xv_MeshPart6
+    100044: Aristarchusregionmoon3xv_MeshPart7
+    100046: Aristarchusregionmoon3xv_MeshPart8
+    100048: Aristarchusregionmoon3xv_MeshPart9
+    100050: Camera
+    100052: Lamp
+    100054: //RootNode
+    400000: Aristarchusregionmoon3xv
+    400002: Aristarchusregionmoon3xv_MeshPart0
+    400004: Aristarchusregionmoon3xv_MeshPart1
+    400006: Aristarchusregionmoon3xv_MeshPart10
+    400008: Aristarchusregionmoon3xv_MeshPart11
+    400010: Aristarchusregionmoon3xv_MeshPart12
+    400012: Aristarchusregionmoon3xv_MeshPart13
+    400014: Aristarchusregionmoon3xv_MeshPart14
+    400016: Aristarchusregionmoon3xv_MeshPart15
+    400018: Aristarchusregionmoon3xv_MeshPart16
+    400020: Aristarchusregionmoon3xv_MeshPart17
+    400022: Aristarchusregionmoon3xv_MeshPart18
+    400024: Aristarchusregionmoon3xv_MeshPart19
+    400026: Aristarchusregionmoon3xv_MeshPart2
+    400028: Aristarchusregionmoon3xv_MeshPart20
+    400030: Aristarchusregionmoon3xv_MeshPart21
+    400032: Aristarchusregionmoon3xv_MeshPart22
+    400034: Aristarchusregionmoon3xv_MeshPart23
+    400036: Aristarchusregionmoon3xv_MeshPart3
+    400038: Aristarchusregionmoon3xv_MeshPart4
+    400040: Aristarchusregionmoon3xv_MeshPart5
+    400042: Aristarchusregionmoon3xv_MeshPart6
+    400044: Aristarchusregionmoon3xv_MeshPart7
+    400046: Aristarchusregionmoon3xv_MeshPart8
+    400048: Aristarchusregionmoon3xv_MeshPart9
+    400050: Camera
+    400052: Lamp
+    400054: //RootNode
+    2300000: Aristarchusregionmoon3xv_MeshPart0
+    2300002: Aristarchusregionmoon3xv_MeshPart1
+    2300004: Aristarchusregionmoon3xv_MeshPart10
+    2300006: Aristarchusregionmoon3xv_MeshPart11
+    2300008: Aristarchusregionmoon3xv_MeshPart12
+    2300010: Aristarchusregionmoon3xv_MeshPart13
+    2300012: Aristarchusregionmoon3xv_MeshPart14
+    2300014: Aristarchusregionmoon3xv_MeshPart15
+    2300016: Aristarchusregionmoon3xv_MeshPart16
+    2300018: Aristarchusregionmoon3xv_MeshPart17
+    2300020: Aristarchusregionmoon3xv_MeshPart18
+    2300022: Aristarchusregionmoon3xv_MeshPart19
+    2300024: Aristarchusregionmoon3xv_MeshPart2
+    2300026: Aristarchusregionmoon3xv_MeshPart20
+    2300028: Aristarchusregionmoon3xv_MeshPart21
+    2300030: Aristarchusregionmoon3xv_MeshPart22
+    2300032: Aristarchusregionmoon3xv_MeshPart23
+    2300034: Aristarchusregionmoon3xv_MeshPart3
+    2300036: Aristarchusregionmoon3xv_MeshPart4
+    2300038: Aristarchusregionmoon3xv_MeshPart5
+    2300040: Aristarchusregionmoon3xv_MeshPart6
+    2300042: Aristarchusregionmoon3xv_MeshPart7
+    2300044: Aristarchusregionmoon3xv_MeshPart8
+    2300046: Aristarchusregionmoon3xv_MeshPart9
+    3300000: Aristarchusregionmoon3xv_MeshPart0
+    3300002: Aristarchusregionmoon3xv_MeshPart1
+    3300004: Aristarchusregionmoon3xv_MeshPart10
+    3300006: Aristarchusregionmoon3xv_MeshPart11
+    3300008: Aristarchusregionmoon3xv_MeshPart12
+    3300010: Aristarchusregionmoon3xv_MeshPart13
+    3300012: Aristarchusregionmoon3xv_MeshPart14
+    3300014: Aristarchusregionmoon3xv_MeshPart15
+    3300016: Aristarchusregionmoon3xv_MeshPart16
+    3300018: Aristarchusregionmoon3xv_MeshPart17
+    3300020: Aristarchusregionmoon3xv_MeshPart18
+    3300022: Aristarchusregionmoon3xv_MeshPart19
+    3300024: Aristarchusregionmoon3xv_MeshPart2
+    3300026: Aristarchusregionmoon3xv_MeshPart20
+    3300028: Aristarchusregionmoon3xv_MeshPart21
+    3300030: Aristarchusregionmoon3xv_MeshPart22
+    3300032: Aristarchusregionmoon3xv_MeshPart23
+    3300034: Aristarchusregionmoon3xv_MeshPart3
+    3300036: Aristarchusregionmoon3xv_MeshPart4
+    3300038: Aristarchusregionmoon3xv_MeshPart5
+    3300040: Aristarchusregionmoon3xv_MeshPart6
+    3300042: Aristarchusregionmoon3xv_MeshPart7
+    3300044: Aristarchusregionmoon3xv_MeshPart8
+    3300046: Aristarchusregionmoon3xv_MeshPart9
+    4300000: Aristarchusregionmoon3xv_MeshPart0
+    4300002: Aristarchusregionmoon3xv_MeshPart1
+    4300004: Aristarchusregionmoon3xv_MeshPart2
+    4300006: Aristarchusregionmoon3xv_MeshPart3
+    4300008: Aristarchusregionmoon3xv_MeshPart4
+    4300010: Aristarchusregionmoon3xv_MeshPart5
+    4300012: Aristarchusregionmoon3xv_MeshPart6
+    4300014: Aristarchusregionmoon3xv_MeshPart7
+    4300016: Aristarchusregionmoon3xv_MeshPart8
+    4300018: Aristarchusregionmoon3xv_MeshPart9
+    4300020: Aristarchusregionmoon3xv_MeshPart10
+    4300022: Aristarchusregionmoon3xv_MeshPart11
+    4300024: Aristarchusregionmoon3xv_MeshPart12
+    4300026: Aristarchusregionmoon3xv_MeshPart13
+    4300028: Aristarchusregionmoon3xv_MeshPart14
+    4300030: Aristarchusregionmoon3xv_MeshPart15
+    4300032: Aristarchusregionmoon3xv_MeshPart16
+    4300034: Aristarchusregionmoon3xv_MeshPart17
+    4300036: Aristarchusregionmoon3xv_MeshPart18
+    4300038: Aristarchusregionmoon3xv_MeshPart19
+    4300040: Aristarchusregionmoon3xv_MeshPart20
+    4300042: Aristarchusregionmoon3xv_MeshPart21
+    4300044: Aristarchusregionmoon3xv_MeshPart22
+    4300046: Aristarchusregionmoon3xv_MeshPart23
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
